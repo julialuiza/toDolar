@@ -15,4 +15,6 @@ function toDolar(realValue) {
   return realDolar;
 }
 
+console.log('2R$ em Dólar:' + toDolar(2));
+
 module.exports = toDolar;

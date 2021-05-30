@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node toDolar.js",
-    "build": "npm install && npm test",
+    "build": "npm install && npm start",
     "test": "jest"
   },
   "dependencies": {
